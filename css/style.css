@@ -1,6 +1,6 @@
 html,body {
 	height:100%;
-	background:#d7e0e9;
+	background:#19a070;
 }
 
 header {
@@ -16,7 +16,7 @@ section {
 	overflow: auto;
 	padding-bottom: 60px;
 	padding-top:30px;
-	color: blue;
+	color: red;
 }
 
 
